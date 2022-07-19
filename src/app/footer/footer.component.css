@@ -1,0 +1,21 @@
+.ft{
+    margin-top:40%;
+    background-color: beige;
+    padding-left: 42%;
+    padding-top: 4%;
+    padding-bottom: 2%;
+    background-color: darkseagreen;
+    
+
+    
+}
+ a{
+     padding:3%; 
+     size: 8px;
+}
+h2{
+    padding-left:2%;
+    text-decoration:underline;
+    color:darkred;
+    size:15%;
+}
